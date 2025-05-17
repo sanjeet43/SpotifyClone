@@ -6,7 +6,6 @@
 * 🧾 **RESTful APIs** for songs, albums, playlists, and users
 * 📱 **Responsive UI** built with TailwindCSS
 * 📡 **Admin dashboard** for song and album management
-* 📦 **Deployed like a pro — 100% FREE!**
 
 ---
 
